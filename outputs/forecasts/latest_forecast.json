@@ -1,0 +1,17 @@
+{
+  "as_of_month": "2026-09",
+  "forecast_month": "2026-10",
+  "current_aum": 3754274.5706320098,
+  "latest_inflow": 74831.96428090999,
+  "latest_outflow": 36525.41223228,
+  "latest_net_flow": 38306.55204863,
+  "forecast_inflow": 72518.671875,
+  "forecast_outflow": 36421.5703125,
+  "forecast_net_flow": 36097.1015625,
+  "inflow_model": "XGBoost",
+  "outflow_model": "XGBoost",
+  "observations": 85,
+  "inflow_explanation": "Tree SHAP values describe model contributions, not causes.",
+  "outflow_explanation": "Tree SHAP values describe model contributions, not causes.",
+  "tree_candidate_note": "SHAP summaries describe the fitted XGBoost model. They explain the dashboard forecast only when XGBoost is the validation-selected estimator; otherwise they describe a comparison candidate. SHAP values are model contributions, not causal effects."
+}

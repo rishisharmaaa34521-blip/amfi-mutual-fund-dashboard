@@ -1,0 +1,5 @@
+Variable,Source,URL,Frequency,Start Date,End Date,Transformation,Notes
+equity_inflow,AMFI Monthly Industry Report,https://www.amfiindia.com/research-information/amfi-monthly,Monthly,2019-04,2026-09,Published open-ended Growth/Equity Oriented Schemes subtotal II,AMFI-reported industry aggregate; raw workbooks retained
+equity_outflow,AMFI Monthly Industry Report,https://www.amfiindia.com/research-information/amfi-monthly,Monthly,2019-04,2026-09,Published open-ended Growth/Equity Oriented Schemes subtotal II,Redemptions in INR crore
+net_flow,AMFI Monthly Industry Report,https://www.amfiindia.com/research-information/amfi-monthly,Monthly,2019-04,2026-09,Inflow minus outflow; reconciled against published subtotal net flow,Industry aggregate
+equity_aum,AMFI Monthly Industry Report,https://www.amfiindia.com/research-information/amfi-monthly,Monthly,2019-04,2026-09,Published open-ended Growth/Equity Oriented Schemes subtotal II net assets,Not a measure of liquid assets

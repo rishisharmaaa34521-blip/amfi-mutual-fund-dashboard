@@ -1,0 +1,13 @@
+feature,mean_abs_shap
+rolling_6m_inflow,7108.4272
+rolling_3m_inflow,3118.846
+current_inflow,2244.8079
+rolling_6m_outflow,2224.8093
+lag_1_inflow,1066.3599
+current_outflow,905.8965
+rolling_3m_outflow,890.5273
+rolling_6m_net_flow,492.75165
+lag_1_outflow,433.24176
+current_net_flow,182.69406
+rolling_3m_net_flow,177.99797
+lag_1_net_flow,135.61058

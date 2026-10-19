@@ -1,0 +1,38 @@
+{
+  "inflow": {
+    "selected_model": "XGBoost",
+    "selection_metric": "validation MAE",
+    "features": [
+      "current_inflow",
+      "current_outflow",
+      "current_net_flow",
+      "lag_1_inflow",
+      "lag_1_outflow",
+      "lag_1_net_flow",
+      "rolling_3m_inflow",
+      "rolling_3m_outflow",
+      "rolling_3m_net_flow",
+      "rolling_6m_inflow",
+      "rolling_6m_outflow",
+      "rolling_6m_net_flow"
+    ]
+  },
+  "outflow": {
+    "selected_model": "XGBoost",
+    "selection_metric": "validation MAE",
+    "features": [
+      "current_inflow",
+      "current_outflow",
+      "current_net_flow",
+      "lag_1_inflow",
+      "lag_1_outflow",
+      "lag_1_net_flow",
+      "rolling_3m_inflow",
+      "rolling_3m_outflow",
+      "rolling_3m_net_flow",
+      "rolling_6m_inflow",
+      "rolling_6m_outflow",
+      "rolling_6m_net_flow"
+    ]
+  }
+}

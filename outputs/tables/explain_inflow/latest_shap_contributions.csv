@@ -1,0 +1,13 @@
+feature,contribution,abs_contribution
+rolling_6m_inflow,10755.841,10755.841
+rolling_3m_inflow,4705.8403,4705.8403
+current_inflow,4076.3264,4076.3264
+rolling_6m_outflow,2938.8704,2938.8704
+rolling_3m_outflow,2317.2913,2317.2913
+current_outflow,2084.3293,2084.3293
+lag_1_inflow,1765.2236,1765.2236
+lag_1_outflow,1038.0723,1038.0723
+rolling_6m_net_flow,-718.183,718.183
+current_net_flow,475.2798,475.2798
+rolling_3m_net_flow,205.40181,205.40181
+lag_1_net_flow,-71.14813,71.14813
